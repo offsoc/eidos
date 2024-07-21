@@ -129,7 +129,7 @@
     "vaul": "^0.8.0",
     "whisper-turbo": "workspace:*",
     "workbox-precaching": "^7.0.0",
-    "ws": "^8.13.0",
+    "ws": "^8.17.1",
     "yjs": "^13.6.6",
     "zod": "^3.21.4",
     "zod-to-json-schema": "^3.21.3",
